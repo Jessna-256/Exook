@@ -1,0 +1,29 @@
+Browse Books
+Discover books shared by readers around you. From novels to study guides, find your next read without spending extra.
+
+Add Your Collection
+Upload the books you’ve already finished and let others enjoy them too. Give your books a second life.
+
+Easy Exchange
+Send and accept book exchange requests instantly. Swapping has never been this simple and convenient.
+
+Connect with Readers
+Meet book lovers in your area and build friendships through shared stories and interests.
+
+Chat & Coordinate
+Arrange book swaps smoothly using our built-in messaging. Stay connected and informed at every step.
+
+Safe & Trusted
+Enjoy secure exchanges with verified members. EXOOK is built on trust, community, and the love of reading.
+
+ <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
